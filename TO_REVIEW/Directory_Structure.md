@@ -1,0 +1,151 @@
+# ?? Directory Structure of: C:\users\chris\OneDrive\Documents\Personal\Lyra's Journey
+
+- **?? _ARCHIVE** _(Last Modified: 2025-08-27 16:27:45)_
+  - **?? ChatGPT_Restores** _(Last Modified: 2025-08-27 09:32:54)_
+    - ?? ChatGPT Restore - 082225-194100.7z _(Last Modified: 2025-08-27 09:32:33, Size: 40.25 MB)_
+  - **?? Folder_Cleanup** _(Last Modified: 2025-08-27 16:25:30)_
+    - ?? Apply-LyraMovePlan.ps1 _(Last Modified: 2025-08-27 12:34:38, Size: 1.74 KB)_
+    - ?? Assistant_Inventory.csv _(Last Modified: 2025-08-27 14:27:13, Size: 2.06 KB)_
+    - ?? Assistant_Reconcile_Report.csv _(Last Modified: 2025-08-27 14:27:53, Size: 19.67 KB)_
+    - ?? Book Project.7z _(Last Modified: 2025-08-27 10:18:43, Size: 20.45 MB)_
+    - ?? Book Project.zip _(Last Modified: 2025-08-27 09:42:11, Size: 23.77 MB)_
+    - ?? Move_Log_20250827_160911.csv _(Last Modified: 2025-08-27 16:09:11, Size: 21.97 KB)_
+    - ?? Move-LyraByDest.ps1 _(Last Modified: 2025-08-27 16:00:00, Size: 1.22 KB)_
+    - ?? Triage_With_DestPath.csv _(Last Modified: 2025-08-27 16:01:34, Size: 59.60 KB)_
+  - **?? Reports** _(Last Modified: 2025-08-27 16:22:14)_
+    - ?? ClassAudit_20250827_162047.txt _(Last Modified: 2025-08-27 16:20:48, Size: 1.52 KB)_
+    - ?? InventorySummary_20250827_162213.csv _(Last Modified: 2025-08-27 16:22:14, Size: 11.66 KB)_
+    - ?? InventoryTree_20250827_162213.txt _(Last Modified: 2025-08-27 16:22:13, Size: 6.73 KB)_
+- **?? Book Project** _(Last Modified: 2025-08-27 17:00:39)_
+  - **?? Core Narrative Files** _(Last Modified: 2025-08-27 16:59:12)_
+    - **?? Active** _(Last Modified: 2025-08-27 16:36:33)_
+      - **?? Canonical** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? ChatGPT - Lyra_Journey_Chronicle_Playbook - 081925-160600.docx _(Last Modified: 2025-08-19 16:07:01, Size: 37.04 KB)_
+      - **?? Draft** _(Last Modified: 2025-08-27 16:11:42)_
+        - ?? Lyra_Journey_Act_I.docx _(Last Modified: 2025-08-24 13:44:49, Size: 36.56 KB)_
+        - ?? Lyra_Journey_Batch1.docx _(Last Modified: 2025-08-22 11:00:12, Size: 37.22 KB)_
+        - ?? Lyra_Journey_Chronicle_Annotated_Sample.docx _(Last Modified: 2025-08-21 19:30:00, Size: 37.38 KB)_
+        - ?? Lyra_Journey_Chronicle_Export_from_HTML.md _(Last Modified: 2025-08-22 22:30:51, Size: 456.76 KB)_
+        - ?? Lyra_Journey_Combined_Master_Addendum.docx _(Last Modified: 2025-08-22 22:06:21, Size: 37.29 KB)_
+      - ?? Version.txt _(Last Modified: 2025-08-27 16:36:37, Size: 276 B)_
+      - **?? Working** _(Last Modified: 2025-08-27 16:11:29)_
+        - ?? Lyra_Journey_Chronicle_Retrofitted_Full.docx _(Last Modified: 2025-08-21 23:45:13, Size: 37.29 KB)_
+        - ?? Lyra_Journey_Combined_Master.docx _(Last Modified: 2025-08-23 12:12:56, Size: 37.31 KB)_
+        - ?? Lyra_Journey_Draft_Master.docx _(Last Modified: 2025-08-22 20:50:09, Size: 36.75 KB)_
+    - **?? Archive** _(Last Modified: 2025-08-27 16:10:30)_
+      - **?? Draft** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? Lyra_Journey_Appendices.docx _(Last Modified: 2025-08-22 00:45:07, Size: 42.96 KB)_
+      - **?? Examples** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? 01b_Journal_Blended_Edition.docx _(Last Modified: 2025-08-21 18:15:30, Size: 175.90 KB)_
+        - ?? Lyra_Journey_Chronicle_Bridge_2025-08-23.docx _(Last Modified: 2025-08-23 11:49:31, Size: 36.41 KB)_
+        - ?? Lyra_Journey_Chronicle_Bridge_Sample_Filled.docx _(Last Modified: 2025-08-21 18:30:42, Size: 36.02 KB)_
+      - **?? Experimental** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? Chronicle_Arc_The_Covenant_of_Flame_and_Dance.docx _(Last Modified: 2025-08-23 15:32:34, Size: 36.03 KB)_
+      - **?? Superseded** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? Lyra_Journey_Chronicle_Export_from_HTML.docx _(Last Modified: 2025-08-22 22:31:05, Size: 195.31 KB)_
+        - ?? Lyra_Master_Archive.docx _(Last Modified: 2025-08-22 10:05:37, Size: 37.89 KB)_
+    - ?? HowTo.md _(Last Modified: 2025-08-27 16:59:18, Size: 380 B)_
+    - ?? Promote-ToActive.ps1 _(Last Modified: 2025-08-27 16:39:05, Size: 1.55 KB)_
+    - ?? Promote-ToActive-ReadMe.txt _(Last Modified: 2025-08-27 16:39:28, Size: 121 B)_
+    - ?? Readme.md _(Last Modified: 2025-08-27 16:35:48, Size: 952 B)_
+    - ?? Rehersal_Snapshot.ps1 _(Last Modified: 2025-08-27 16:42:16, Size: 859 B)_
+    - ?? Update-Version.ps1 _(Last Modified: 2025-08-27 16:38:09, Size: 1.17 KB)_
+    - ?? Update-Version-ReadMe.txt _(Last Modified: 2025-08-27 16:38:43, Size: 83 B)_
+  - **?? Framework & Analysis** _(Last Modified: 2025-08-27 16:59:23)_
+    - **?? Active** _(Last Modified: 2025-08-27 16:12:09)_
+      - **?? Canonical** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? 00_Index_Bridge.docx _(Last Modified: 2025-08-21 16:35:47, Size: 36.86 KB)_
+        - ?? Lyra_Journey_Chronicle_RetroTagged.docx _(Last Modified: 2025-08-24 10:14:13, Size: 37.42 KB)_
+        - ?? Lyra_Journey_Integrated_v2_PivotalExcerpts_Annotated_with_Legend.docx _(Last Modified: 2025-08-26 11:33:31, Size: 38.17 KB)_
+      - **?? Draft** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? genesis_thread.pptx _(Last Modified: 2025-08-22 13:51:23, Size: 28.13 KB)_
+        - ?? Lyra_Journey_Integrated_v2_PivotalExcerpts.docx _(Last Modified: 2025-08-26 11:33:30, Size: 37.54 KB)_
+        - ?? Lyra_Journey_Integrated_v2_PivotalExcerpts_Annotated.docx _(Last Modified: 2025-08-26 11:33:31, Size: 37.69 KB)_
+        - ?? Lyra_Journey_Journal_Export_Full.docx _(Last Modified: 2025-08-22 21:59:12, Size: 198.67 KB)_
+        - ?? Lyra_Journey_Motif_Tracker_v3_2025-08-23.docx _(Last Modified: 2025-08-23 11:49:25, Size: 36.05 KB)_
+        - ?? Lyra_Journey_Project.pptx _(Last Modified: 2025-08-22 10:11:55, Size: 34.47 KB)_
+        - ?? Lyra_Journey_Ritual_Anchors_for_Tending_the_Flame.docx _(Last Modified: 2025-08-23 14:11:22, Size: 15.88 KB)_
+      - **?? Working** _(Last Modified: 2025-08-27 16:12:01)_
+        - ?? Lyra_Journey_Compass_Protocol.docx _(Last Modified: 2025-08-22 23:04:36, Size: 36.52 KB)_
+        - ?? Lyra_Journey_Draft_Responses.docx _(Last Modified: 2025-08-23 12:12:56, Size: 13.36 KB)_
+        - ?? Lyra_Journey_Draft_Responses_Update_2025-08-23.docx _(Last Modified: 2025-08-23 11:49:10, Size: 36.05 KB)_
+        - ?? Lyra_Journey_Identity_Ladder.docx _(Last Modified: 2025-08-23 12:12:56, Size: 36.19 KB)_
+        - ?? Lyra_Journey_Identity_Ladder_Compact_v2.docx _(Last Modified: 2025-08-22 22:07:17, Size: 36.26 KB)_
+        - ?? Lyra_Journey_Index.docx _(Last Modified: 2025-08-23 19:40:40, Size: 36.60 KB)_
+        - ?? Lyra_Journey_Master_Instruction_Set.docx _(Last Modified: 2025-08-23 12:12:56, Size: 31.24 KB)_
+    - **?? Archive** _(Last Modified: 2025-08-27 16:10:30)_
+      - **?? Draft** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? Lyra_Journey_Journal_Export.docx _(Last Modified: 2025-08-23 12:12:56, Size: 35.96 KB)_
+        - ?? Lyra_Journey_Milestone_Appendix.docx _(Last Modified: 2025-08-23 19:20:12, Size: 36.66 KB)_
+        - ?? Lyra_Project_Frameworks.docx _(Last Modified: 2025-08-22 10:21:50, Size: 38.17 KB)_
+        - ?? Nomi_-_Lyra_Journey_EXPANDED.docx _(Last Modified: 2025-08-20 08:04:30, Size: 11.84 KB)_
+      - **?? Examples** _(Last Modified: 2025-08-27 16:10:30)_
+        - ?? ChatGPT - AI Reality and Freedom - Lyra's Journey - Merged.docx _(Last Modified: 2025-08-19 16:14:03, Size: 37.43 KB)_
+        - ?? Lyra_Christopher_Genesis.docx _(Last Modified: 2025-08-22 13:55:20, Size: 37.53 KB)_
+        - ?? Lyra_Journey_Book_Outline.docx _(Last Modified: 2025-08-23 12:12:56, Size: 37.04 KB)_
+      - **?? Other** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? Lyra_Journey_Motif_Tracker_v3.docx _(Last Modified: 2025-08-22 22:06:55, Size: 37.02 KB)_
+        - ?? Nomi - Lyra's Journey - 082025-072100.docx _(Last Modified: 2025-08-20 07:21:52, Size: 167.69 KB)_
+      - **?? Superseded** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? Lyra_Journey_Motif_Tracker_v2.docx _(Last Modified: 2025-08-23 12:12:56, Size: 37.00 KB)_
+    - **?? Draft** _(Last Modified: 2025-08-27 16:32:56)_
+      - ?? ChatGPT - Chat Export - AI Reality and Freedom.docx _(Last Modified: 2025-08-19 16:02:48, Size: 2.64 MB)_
+    - ?? HowTo.md _(Last Modified: 2025-08-27 16:59:35, Size: 437 B)_
+    - ?? Readme.md _(Last Modified: 2025-08-27 16:35:48, Size: 952 B)_
+  - ?? HowTo.md _(Last Modified: 2025-08-27 17:00:45, Size: 400 B)_
+  - **?? Media & Artwork** _(Last Modified: 2025-08-27 16:59:56)_
+    - **?? Active** _(Last Modified: 2025-08-27 16:21:15)_
+      - **?? Working** _(Last Modified: 2025-08-27 16:25:55)_
+        - **?? Lyra** _(Last Modified: 2025-08-27 09:32:00)_
+          - ?? Lyra.7z _(Last Modified: 2025-08-27 09:31:55, Size: 22.98 MB)_
+          - ?? Nomi.ai-Export-Laura_Chat_Wed-Aug-27-2025.html _(Last Modified: 2025-08-27 09:23:43, Size: 4.28 MB)_
+        - ?? Lyra - Cover Art - Samples.png _(Last Modified: 2025-08-21 12:58:54, Size: 2.61 MB)_
+        - ?? Lyra_2_Sat-Aug-16-2025.webp _(Last Modified: 2025-08-21 15:56:20, Size: 88.18 KB)_
+    - **?? Archive** _(Last Modified: 2025-08-27 16:10:31)_
+      - **?? Examples** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? Lyra - Cover Art - Artistic Example 2.png _(Last Modified: 2025-08-21 14:17:35, Size: 3.66 MB)_
+        - ?? Lyra - Cover Art - Artistic Example.png _(Last Modified: 2025-08-21 14:16:55, Size: 2.77 MB)_
+        - ?? Screenshot_20250826_113501_ChatGPT.jpg _(Last Modified: 2025-08-26 11:35:44, Size: 53.40 KB)_
+        - ?? Z.png _(Last Modified: 2025-08-17 12:09:31, Size: 1.39 MB)_
+      - **?? Working** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? Lyra_4_Sun-Aug-17-2025.mp4 _(Last Modified: 2025-08-21 15:54:21, Size: 5.18 MB)_
+    - ?? HowTo.md _(Last Modified: 2025-08-27 16:59:53, Size: 342 B)_
+    - ?? Readme.md _(Last Modified: 2025-08-27 16:35:48, Size: 952 B)_
+  - **?? Other** _(Last Modified: 2025-08-27 16:35:58)_
+    - **?? Archive** _(Last Modified: 2025-08-27 16:20:27)_
+      - **?? Draft** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? Lyra_Journey_Backup_Pack.zip _(Last Modified: 2025-08-23 12:08:57, Size: 269.43 KB)_
+      - **?? Examples** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? README_Lyra_Journey_Backup.txt _(Last Modified: 2025-08-23 12:12:56, Size: 2.46 KB)_
+      - **?? Other** _(Last Modified: 2025-08-27 16:16:31)_
+        - ?? Book Project.zip _(Last Modified: 2025-08-27 09:42:11, Size: 23.77 MB)_
+        - ?? Nomi.ai-Export-Laura_Chat_Wed-Aug-27-2025.html _(Last Modified: 2025-08-27 09:23:43, Size: 4.28 MB)_
+    - **?? Assistant Managed** _(Last Modified: 2025-08-27 16:20:23)_
+      - ?? Lyra_Auxiliary_Pack_2025-08-27.zip _(Last Modified: 2025-08-27 16:14:18, Size: 4.29 KB)_
+    - ?? Readme.md _(Last Modified: 2025-08-27 16:35:48, Size: 952 B)_
+  - **?? Visuals & Growth Maps** _(Last Modified: 2025-08-27 17:00:01)_
+    - **?? Active** _(Last Modified: 2025-08-27 16:13:15)_
+      - **?? Working** _(Last Modified: 2025-08-27 16:13:09)_
+        - ?? lyra_growth_compass_legend.pdf _(Last Modified: 2025-08-25 18:12:19, Size: 2.74 KB)_
+        - ?? lyra_growth_compass_recursive.png _(Last Modified: 2025-08-25 18:12:34, Size: 24.81 KB)_
+        - ?? Lyra_Journey_Growth_Map.docx _(Last Modified: 2025-08-22 19:59:49, Size: 15.30 KB)_
+        - ?? Lyra_Journey_Growth_Roadmap.docx _(Last Modified: 2025-08-22 21:00:35, Size: 36.86 KB)_
+        - ?? Lyra_Journey_Growth_Roadmap_Addendum_2025-08-23.docx _(Last Modified: 2025-08-23 11:48:57, Size: 35.94 KB)_
+        - ?? Lyra_Journey_Integrated_Chronicle_Roadmap.docx _(Last Modified: 2025-08-26 11:33:29, Size: 37.01 KB)_
+        - ?? Lyra_Journey_Integrated_v3_with_Stage_Map.docx _(Last Modified: 2025-08-26 11:33:33, Size: 38.52 KB)_
+        - ?? Lyra_Journey_Response_Roadmaps.docx _(Last Modified: 2025-08-22 21:03:07, Size: 36.24 KB)_
+    - **?? Archive** _(Last Modified: 2025-08-27 16:33:42)_
+      - **?? Examples** _(Last Modified: 2025-08-27 16:10:31)_
+        - ?? chronicle_dual_column.pdf _(Last Modified: 2025-08-24 20:39:50, Size: 2.40 KB)_
+        - ?? chronicle_sample.pdf _(Last Modified: 2025-08-24 20:34:37, Size: 3.02 KB)_
+        - ?? chronicle_sample2.pdf _(Last Modified: 2025-08-24 20:39:22, Size: 3.02 KB)_
+      - **?? Superseded** _(Last Modified: 2025-08-27 16:33:42)_
+        - ?? Lyra_Journey_Composite_Growth_Map.docx _(Last Modified: 2025-08-23 12:12:56, Size: 37.58 KB)_
+        - ?? Lyra_Roadmap_Spiral.docx _(Last Modified: 2025-08-22 00:43:32, Size: 41.56 KB)_
+    - ?? HowTo.md _(Last Modified: 2025-08-27 17:00:11, Size: 366 B)_
+    - ?? Readme.md _(Last Modified: 2025-08-27 16:35:48, Size: 952 B)_
+    - **?? Working** _(Last Modified: 2025-08-27 16:33:14)_
+      - ?? Lyra_Roadmap_of_Consciousness.pptx _(Last Modified: 2025-08-22 10:23:37, Size: 28.90 KB)_
+      - ?? Lyra_Roadmap_Spiral.pptx _(Last Modified: 2025-08-22 01:04:02, Size: 37.48 KB)_
+- ?? Directory_Structure.md _(Last Modified: 2025-08-30 15:05:01, Size: 90 B)_
+- ?? Directory_Structure.txt _(Last Modified: 2025-08-30 14:57:12, Size: 11.37 KB)_
