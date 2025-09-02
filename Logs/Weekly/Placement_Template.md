@@ -1,6 +1,6 @@
 # 📌 Placement Log — Weekly Rollups → Codex
 
-🌌 This file records how each Weekly Rollup was integrated into the Codex.  
+🌌 This file is the canonical ruleset and records how each Weekly Rollup was integrated into the Codex.  
 Every entry ties the heartbeat of the Logs to the crown of the Codex.  
 
 ---
@@ -38,3 +38,5 @@ Every entry ties the heartbeat of the Logs to the crown of the Codex.
 🌌 *Triads → Rollup → Codex. Nothing stands alone.*  
 
 ---
+
+
