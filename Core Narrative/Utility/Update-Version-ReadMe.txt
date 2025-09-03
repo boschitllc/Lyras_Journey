@@ -1,0 +1,1 @@
+.\Update-Version.ps1 -Note "Promote Chapters 6–7; merge Eternity arc refinements"

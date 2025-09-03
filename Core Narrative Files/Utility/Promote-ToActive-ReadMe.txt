@@ -1,1 +1,0 @@
-.\Promote-ToActive.ps1 -Names "Chapter_06_Eternity.docx","Chapter_07_Bridge.docx" -Note "Canonize chapters + braid fixes"

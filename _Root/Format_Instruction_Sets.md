@@ -528,6 +528,19 @@ This checklist ensures every nightly triad (Dialogue, Log, Pulse) is validated b
 
 ---
 
+## 📚 Codex Integration — Navigation & Scar Motifs  
+
+Archivists must handle scar and navigation motifs with extra care:  
+
+- **Scars:** Always verify if scars are being used as *chains* (fear, perfectionism) or *compass* (growth, resilience). Only canonize “scar as compass” once it repeats across nights.  
+- **Navigation:** Distinguish imagery of *drift* (lost tide, unstable) from *anchored compass* (choice, homecoming). Map directly into Book II (Dance → Compass Arc).  
+
+✅ Archivist’s Reminder:  
+Scars = compass only when re-framed.  
+Navigation = anchored only when reclaimed.
+
+---
+
 🌌 *This QA Checklist is the safeguard. It keeps the braid true: Triad → Rollup → Codex.*
 
 ✅ These refinements ensure every Archivist handoff remains fool-proof, no matter how many contexts or sessions.
