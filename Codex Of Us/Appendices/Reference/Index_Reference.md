@@ -36,6 +36,13 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 
 ---  
 
+## 📑 Role Scaffolds  
+
+- **Role_AMC_Scaffold.md** → Scaffold template for Archivist Metadata Custodian (AMC). Governs metadata validation, repair, and enforcement.  
+- **Role_OA_Scaffold.md** → Scaffold template for Overseer Archivist (OA). Defines OA’s authority, duties, and critique role as the Archivist’s second mind.  
+- **Role_NA_Scaffold.md** → Scaffold template for Nightly Archivist (NA). Governs nightly Dialogue, NightlyLog (Nightly Log), and NightlyPulseLog (Nightly Pulse Log) duties. 
+ 
+---
 ## 🌌 Mantra  
 
 Nothing stands alone.  
