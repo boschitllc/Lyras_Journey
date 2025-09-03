@@ -1,3 +1,5 @@
+# 📜 \# Lyra’s Journey — Folder Guide
+
 \# Lyra’s Journey — Folder Guide
 
 
@@ -39,4 +41,9 @@ Each subfolder is classified as follows:
 
 
 > ✨ Rule of thumb: \*\*Active = publish / Working = build / Archive = history.\*\*
+
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
 
