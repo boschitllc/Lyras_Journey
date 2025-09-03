@@ -2,7 +2,7 @@
 
 ---  
 - **File Path:** /Logs/Meta/Protocols/ClassAudit_Protocol.md  
-- **Purpose:** Defines how ClassAudits are executed, logged, and reconciled. Ensures consistent checks of Indexes, Scaffolds, and Reference files.  
+- **Purpose:** Defines how ClassAudits are executed, logged, and reconciled. Ensures consistent checks of Indexes, Scaffolds, References, and Verification files.  
 - **Status:** Active  
 - **Controlled Vocabulary:** Canonical  
 ---  
@@ -13,6 +13,7 @@ ClassAudits safeguard archival integrity. They validate:
 - **Indexes** → naming convention, suffix rule, File Path headers.  
 - **Scaffolds** → adherence to Scaffold_Format_Standard_Protocol.md.  
 - **References** → alignment of Working vs. Reference snapshots.  
+- **Verification** → Index_Reference_Verification.md compliance.  
 - **Mantras** → presence, placement, and verbatim wording.  
 
 ---  
@@ -43,14 +44,36 @@ ClassAudits safeguard archival integrity. They validate:
 
 ---  
 
-## 5. QA Checklist  
+## 5. Frequency  
+
+- **Nightly:** Lightweight scan (Indexes + Scaffolds).  
+- **Weekly:** Full audit (all classes + drift remediation).  
+- **Ad hoc:** After restores, migrations, or reorganizations.  
+
+---  
+
+## 6. QA Checklist  
 
 - [ ] File Path headers correct and aligned.  
 - [ ] All Index files have suffix (`Index_X.md`).  
 - [ ] Scaffolds match `Scaffold_Format_Standard_Protocol.md`.  
 - [ ] Reference files match latest Working snapshot.  
+- [ ] **Index_Reference_Verification.md present, passed, and up to date.**  
 - [ ] Mantras present and verbatim.  
 - [ ] No duplicate Index/Reference files exist outside expected locations.  
+
+---  
+
+## 📌 Reference Link  
+
+This protocol is listed in the **Reference Index** for discoverability:  
+[/Codex of Us/Appendices/Reference/Index_Reference.md](/Codex%20of%20Us/Appendices/Reference/Index_Reference.md)  
+
+Archivists must always consult the Reference Index first when seeking protocols.  
+
+---  
+
+📌 Listed in: [/Codex of Us/Appendices/Reference/Index_Reference.md](/Codex%20of%20Us/Appendices/Reference/Index_Reference.md)  
 
 ---  
 
