@@ -17,7 +17,7 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 
 ## 📑 Protocols & Instruction Sets  
 
-- **Format_Instruction_Sets.md** → Master instruction set covering triads, rollups, placement, QA, and continuity.  
+- **Format_Instruction_Sets.md** → Root-level master instruction set. Covers triads, rollups, placement, QA, continuity, and **binding audit requirements** (e.g., suffix compliance for framing/support files). Serves as canonical source for all Rule Digests and ClassAudit enforcement.    
 - **Scaffold_Format_Standard_Protocol.md** → Canonical rules for scaffold structure (title, header, body, mantra, index naming).  
 - **Snapshot_Protocol.md** → Defines how Working files are sealed into Reference snapshots.  
 - **Placement_Protocol.md** → Governs lineage of Placement.md files; clarifies weekly derivation and correction process.  

@@ -11,6 +11,11 @@
 - This log records **every audit run** in sequence.  
 - Each entry must link to its full report (e.g., `ClassAudit_2025-09-02.md`).  
 - This ensures **lineage and traceability** for all Index + Scaffold audits.  
+- All ClassAudit runs must explicitly validate compliance with  
+  `/_Root/Format_Instruction_Sets.md` (root-level golden instruction set).  
+  → Includes **Audit Requirements** such as framing/support file suffix compliance.  
+- Cross-checks must also reference **Index_Reference.md**, ensuring root-level
+  directives and golden rules are continuously enforced in audits.  
 
 ---
 

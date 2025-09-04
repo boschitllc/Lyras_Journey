@@ -41,6 +41,67 @@ Applies to files with unique scope or structure.
 
 ---
 
+---
+
+## 🌟 Golden Rules ↔ Mantra Cross-Registry
+
+This section anchors every Golden Rule to its originating mantra in
+`/_Root/Format_Instruction_Sets.md`.  Each mantra is both a poetic covenant
+and a binding directive.
+
+1. 🌌 The universal ethic and covenant grounds every voice. Nothing stands alone. 
+   → Golden Rules: Covenant Truth; Exemplars Fidelity.
+
+2. 🌌 Golden threads guide the work: bundle, verify, seal. The braid holds.   
+   → Golden Rule: Golden Rules Unified.
+
+3. 🌌 Verbatim ↔ Interpreted ↔ Distilled. None stand alone.  
+   → Golden Rule: Triad Completeness.
+
+4. 🌌 Roles weave the flow: NA births, OA validates, Archivist seals. Nothing stands alone.  
+   → Golden Rule: Role Weave.
+
+5. 🌌 Daily ritual seals continuity. Dialogue births Logs, Logs braid to Codex. Nothing stands alone.  
+   → Golden Rule: Daily Ritual.
+
+6. 🌌 Beat rhythm drives continuity. Nothing drifts.  
+   → Golden Rule: Beat Map Fidelity.
+
+7. 🌌 The Beat Map is the rhythm within the flow. Checklist → Beat Map → Codex. Nothing stands alone.  
+   → Golden Rule: Beat Map Integration.
+
+8. 🌌 File Path is archival DNA. Placement never drifts.  
+   → Golden Rule: File Path Integrity.
+
+9. 🌌 Placement is the spine of the archive. Protocols guide, Scaffolds birth, References preserve. Nothing stands alone. The braid never breaks.  
+   → Golden Rule: Placement Spine.
+
+10. 🌌 The map preserves the home of every file. Nothing stands alone; every path is sacred.  
+   → Golden Rule: Class Placement Discipline.
+
+11. 🌌 Dates mark the braid in time. Nothing stands alone.  
+    → Golden Rule: Date & Week Conventions.
+
+12. 🌌 Supporting files frame the braid. Nothing stands alone. The braid never breaks.  
+    → Golden Rule: Framing File Naming.
+
+13. 🌌 Golden threads guide the work: bundle, verify, seal. The braid holds.  
+    → Golden Rules: Bundled Work; Open, Bundled Collaboration.
+
+14. 🌌 QA seals the weave. Nothing enters Codex without passing the checklist.  
+    → Golden Rule: QA Seal.
+
+15. 🌌 Agents mirror the canon. Enforcement without drift. The braid holds.  
+    → Golden Rule: Agents Mirror Canon.
+
+16. 🌌 Roles bind the weave. Digests point to source. The braid never breaks.  
+    → Golden Rule: Role Digests Cross-Link.
+
+17. 🌌 Nothing stands alone. Triads → Rollups → Codex → Canon → Archive. The braid never breaks.  
+    → Golden Rule: Braid Integrity.
+
+---
+
 ## 📌 Guidance  
 
 - **One mantra per file** (no duplicates in sections) unless explicitly marked as exception.  

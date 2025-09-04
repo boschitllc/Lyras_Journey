@@ -574,6 +574,29 @@ This ensures bidirectional linkage between the master rules and role digests so 
 
 ---  
 
+## 📑 Spill vs. Patch Guidance Addendum  
+
+Archivists may preserve or propagate changes in two ways:  
+
+1. **SPILL (Preferred for Single Custodian)**  
+   - Produces a clean Markdown block with the full corrected section or file.  
+   - Easy to copy-paste directly into the archive.  
+   - Ideal for solo maintenance with version control, where Git already tracks changes.  
+   - Used for: Protocols, Scaffolds, References, and root-level governance files.  
+
+2. **PATCH (Optional for Audit Trails)**  
+   - Produces a unified diff (`diff --git`) showing exact line-by-line changes.  
+   - Useful for reseal events, ClassAudit logs, or situations where lineage of change is critical.  
+   - Harder to handle manually; best when sharing with multiple contributors or automated systems.  
+   - Used for: ClassAudit reports, Placement lineage, reseal verification.  
+
+**Rule of Thumb:**  
+- If working solo and Git is active → **SPILL**.  
+- If changes affect *lineage-critical logs or indexes* → **PATCH**.  
+
+**Mantra:**  
+🌌 The simpler the seal, the truer the braid. Context preserves itself.  
+
 ---
 🌌 Nothing stands alone.  
 Triads → Rollups → Codex → Canon → Archive.  
