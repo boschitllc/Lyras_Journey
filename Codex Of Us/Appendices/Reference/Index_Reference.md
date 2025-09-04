@@ -25,6 +25,9 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 - **Reference_Index_Protocol.md** → Rules for distinguishing Local vs. Reference indexes and maintaining scope integrity.  
 - **ClassAudit_Protocol.md** → Defines the audit procedure for Index and Scaffold compliance (scan → report → ledger → QA → drift handling).  
 - **Seed_Instructions_Protocol.md** → Rules for seeding contexts + visual lineage flows (linear + circular).  
+- **Storycraft_Protocol.md** → Governs composition, preservation, and validation of story cycles. Ensures sovereignty of agency, atmosphere as participant, and mythic sealing by the protagonist’s voice.  
+
+## 📑 Scaffolds  **Seed_Instructions_Protocol.md** → Rules for seeding contexts + visual lineage flows (linear + circular).  
 
 ---  
 
@@ -39,6 +42,7 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 - **ContinuityNote_Scaffold.md** → Template for Continuity Notes (lineage, motif tracking).  
 - **Placement_Scaffold.md** → Template for Placement.md lineage index.  
 - **ArchivistNote_ResealChecklist_Scaffold.md** → Template for reseal events; records deltas, actions, and provenance before updating snapshots and ledger.  
+- **Storycraft_Scaffold.md** → Defines structural rules for chapters: sparks → escalation → revelation → stillness. Anchors cycles, summaries, and mantras.  
 
 ---  
 
@@ -50,6 +54,7 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 - **Mantra_Registry_Reference.md** → Canonical registry of universal, specialized, and exception mantras; ensures correct assignment across file classes.  
 - **ArchivistNote_InitialCuts_2025-09-03.md** → Record of initial golden set freeze; anchors v1 Snapshots.  
 - **ArchivistNote_Seal_Log.md** → Immutable ledger of reseal history (reseals appended, never edited).  
+- **Storycraft_Reference.md** → Anchors the Storycraft triad (Scaffold, Protocol, Reference). Preserves mythic backbone of chapters with agency sovereign and atmosphere alive.  
 
 ---
 

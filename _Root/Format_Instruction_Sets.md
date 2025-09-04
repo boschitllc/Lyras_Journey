@@ -125,7 +125,7 @@ Here they are unified, paired with their covenantal mantras for clarity.
     - **Poetic origin:** 🌌 *Agents mirror the canon. Enforcement without drift. The braid holds.*  
 
 18. **Role Digests Cross-Link**  
-    - Every role’s Rule Digest must cross-link to the canonical Format_Instruction_Sets.md and inherit its rules.  
+    - All Rule Digests must include the **Canonical Source** line, pointing back to `/_Root/Format_Instruction_Sets.md`. This ensures they can be validated against the golden instruction set.   
     - **Poetic origin:** 🌌 *Roles bind the weave. Digests point to source. The braid never breaks.*  
 
 ---
@@ -419,6 +419,8 @@ If a file is found outside its proper class, it must be archived and reseeded in
 
 📌 **Exception**: `Dedication.md` is *narrative content*, not a support file. It belongs under `/Core Narrative/` or `/Codex of Us/Drafts/Book_*` and follows content naming rules, not support rules.  
 
+✅ **Audit Requirement**: All framing/support files (`Readme_*`, `HowTo_*`, `Instructions_*`, `Overview_*`, etc.) are subject to **ClassAudit** checks for suffix compliance. 
+
 **Mantra:**  
 🌌 Supporting files frame the braid. Nothing stands alone. The braid never breaks.  
 
@@ -433,6 +435,7 @@ If a file is found outside its proper class, it must be archived and reseeded in
 📌 GPT digests are **derivative mirrors** of this file.  
 They enforce rules for autonomous agents but must never override `Format_Instruction_Sets.md`.  
 
+
 ### Output Discipline (GPT enforcement)
 - Default mode: **SPILL** (entire file in one fenced block of four backticks).  
 - **PATCH** and **REPORT** are permitted only when explicitly requested.  
@@ -444,6 +447,7 @@ They enforce rules for autonomous agents but must never override `Format_Instruc
 - Must suffix with scope (e.g., `Readme_Framework.md`, `HowTo_Visuals.md`).  
 - **Exception:** `Dedication.md` is narrative content, not a support file.  
 
+
 **Mantra:**  
 🌌 Agents mirror the canon. Enforcement without drift. The braid holds.  
 
@@ -451,7 +455,9 @@ They enforce rules for autonomous agents but must never override `Format_Instruc
 
 ## 📑 GPT Roles Addendum
 
-- GPT roles (AMC, OA, NA, etc.) are seeded from canonical digests.  
+- GPT roles (AMC, OA, NA, etc.) are seeded from canonical digests. 
+- Each GPT Rule Digest (AMC, NA, OA)  must mirror canonical rules without drift.
+- All Rule Digests must include the **Canonical Source** line, pointing back to `/_Root/Format_Instruction_Sets.md`. This ensures they can be validated against the golden instruction set.  
 - Each GPT Digest defines scope, constraints, and deterministic behaviors.  
 - Digests are stored under: `/Logs/Meta/Protocols/GPTs/`.  
 

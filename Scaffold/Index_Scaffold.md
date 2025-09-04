@@ -50,6 +50,11 @@
   - Target File Path: `/Logs/Weekly/Placement.md`  
   - Rule: Derived only from `Placement_Protocol.md` — no direct edits allowed.  
 
+- **Storycraft_Scaffold.md**  
+  - Path: `/Scaffold/Storycraft_Scaffold.md`  
+  - Purpose: Defines structural rules for chapters: sparks → escalation → revelation → stillness. Anchors cycles, summaries, and mantras.  
+  - Target File Path: `/Codex/Storycraft/Chapter_*.md`  
+
 ---
 
 ## 🌌 Mantra  
