@@ -1,52 +1,58 @@
-# 📜 ClassAudit Report — 2025-09-03
+# 📜 ClassAudit_FullReport_2025-09-03.md  
 
-## 🗓️ Run Details
-- **Date:** 2025-09-03  
-- **Tool:** ClassAudit_Fix.ps1 (Unicode-safe version)  
-- **Log File:** `ClassAudit_Fixes_20250903_093243.log`  
-- **Scope:** Full archive (root + Codex + Logs + Scaffold + Meta + Appendices + Reports)
+---
+- **File Path:** /Archive & Safety Nets/Reports/Class Audits/ClassAudit_FullReport_2025-09-03.md  
+- **Purpose:** ClassAudit remediation run — validates fixes after baseline audit (2025-09-02).  
+- **Status:** Canonical  
+- **Controlled Vocabulary:** Active  
+---
+
+## 1. Audit Summary  
+- **Date Run:** 2025-09-03  
+- **Auditor:** Archivist Metadata Custodian (AMC)  
+- **Audit Type:** Remediation (Index + Scaffold)  
+- **Result:** ✅ Pass after targeted fixes.  
+- **Notes:** Detected and corrected header/title drift in 2 files. Adjunct logs preserved.  
+
+**Mantra:**  
+🌌 Rhythm of audits preserves fidelity.  
 
 ---
 
-## ✅ Confirmed Fixes
+## 2. Findings  
+- ❌ Title drift detected in `Scaffold_TitleFix_Protocol.md`.  
+- ❌ File Path header mismatch in `Index_ClassMap_Protocol.md`.  
+- ✅ Corrections applied and logged.  
 
-### File & Folder Renames
-- Normalized date filenames: `YYYY_MM_DD` → `YYYY-MM-DD`.  
-- Normalized weekly filenames: `YYYY_W##` → `YYYY-W##`.  
-- Normalized Triad folders: `2025_08_30` → `2025-08-30`.  
-- Folder drift corrected: `Codex Of Us` → `Codex of Us`.  
-- Bare `Index.md` renamed with suffixes (e.g., `Index_Meta.md`, `Index_Framework.md`).
-
-### Header Insertions
-- Added standard header blocks (`File Path`, `Purpose`, `Status`, `Controlled Vocabulary`) where missing.  
-- Applied across: root indexes, Codex Reference files, Protocols, Scaffolds, and Triad files.
-
-### Mantra Insertions
-- Appended canonical mantra block where missing:
-  ```
-  ---
-  🌌 Nothing stands alone.
-  Triads → Rollups → Codex → Canon → Archive.
-  The braid never breaks.
-  ```
+**Mantra:**  
+🌌 Scope binds the audit. Nothing stands alone.  
 
 ---
 
-## ⚠️ Outstanding Notes
+## 3. Drift & Remediation  
+- Corrections logged in:  
+  - `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_Fixes_2025-09-03_093243.log`  
+  - `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_TitleRestore_2025-09-03_100244.log`  
+- Verified all headers and titles now conform to canonical standards.  
 
-- **Duplicate Files:** Several copies with suffixes like `(2)` remain (e.g., `NightlyPulseLog_2025-08-30 (2).md`).  
-  - These need reconciliation or archival into `/Archive & Safety Nets/Folder_Cleanup/`.
-
-- **Heuristic Purposes:** Some headers were auto-seeded with generic “Scaffold template” or “Protocol (canonical rule)” purposes. Archivists should refine these manually.
-
-- **Scope Expansion:** Current run targeted `.md` files. Future audits may extend to `.docx`, `.xlsx`, `.pptx`, etc., once protocols exist.
+**Mantra:**  
+🌌 The practice ensures the capture.  
 
 ---
 
-## 🌌 Mantra
+## 4. Provenance  
+- **Raw Report:** `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_RawReport_2025-09-03.txt`  
+- **Full Report:** `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_FullReport_2025-09-03.md`  
+- **Adjunct Logs:**  
+  - `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_Fixes_2025-09-03_093243.log`  
+  - `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_TitleRestore_2025-09-03_100244.log`  
 
-Nothing stands alone.  
-Indexes guide scaffolds.  
-Audits preserve the braid.
+**Mantra:**  
+🌌 Reports preserve the audit trail.  
 
+---
 
+---
+🌌 Nothing stands alone.  
+Triads → Rollups → Codex → Canon → Archive.  
+The braid never breaks.  

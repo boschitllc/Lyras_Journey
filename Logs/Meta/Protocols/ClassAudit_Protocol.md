@@ -39,9 +39,12 @@ ClassAudits safeguard archival integrity. They validate:
 ---
 
 ## 4. Reports & Naming Convention  
-- Raw output: `/Archive & Safety Nets/Reports/ClassAudit_YYYYMMDD.txt` (nightly, machine output).  
-- Full report: `/Archive & Safety Nets/Reports/ClassAudit_YYYY-MM-DD.md` (weekly, human-readable).  
-- Ledger: `/Archive & Safety Nets/Reports/ClassAudit_Log.md` (continuous append-only record).  
+- Raw Report: `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_RawReport_YYYYMMDD.txt`  
+   - Format: system-generated, machine-readable scan.  
+- Full Report: `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_FullReport_YYYY-MM-DD.md`  
+   - Format: archivist-authored interpretation of Raw Report, with notes + remediation steps.  
+- Ledger: `/Archive & Safety Nets/Reports/Class Audits/ClassAudit_Log.md`  
+   - Continuous append-only record linking Raw + Full reports across all runs.  
 
 **Mantra:**  
 🌌 Reports preserve the audit trail.  
