@@ -2,7 +2,8 @@
 
 ---
 - **File Path:** /Logs/Meta/ArchivistNotes/ArchivistNote_Seal_Log.md  
-- **Purpose:** Chronological ledger of all snapshot reseals. Tracks version increments, dates, and lineage for audit integrity.  
+- **Purpose:** Chronological ledger of all snapshot reseals. Part of the Reference triad (Indexes, Registries, Ledgers). Tracks version increments, dates, and lineage for audit integrity.  
+
 - **Status:** Canonical  
 - **Controlled Vocabulary:** Canonical  
 ---

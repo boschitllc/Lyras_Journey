@@ -19,6 +19,10 @@ They serve as **bridges** between scaffolds and working files, showing where eac
 1. **Triad Principle**  
    - Every class of file must have a **Scaffold** (template), a **Protocol** (rules), and an **Index** (map).  
    - Missing any one weakens archival integrity.  
+   - *Example: Archivist Notes* now have:  
+     - **ArchivistNote_Scaffold.md** → Context + details + guidance.  
+     - **ArchivistNote_ResealChecklist_Scaffold.md** → Reseal event deltas + actions.  
+     - **Index_Reference.md** → Lists all Scaffolds (including Archivist Notes).   
 
 2. **Index Placement**  
    - All `Index_ClassMap_*.md` live in `/Logs/Meta/` or appropriate subfolder.  

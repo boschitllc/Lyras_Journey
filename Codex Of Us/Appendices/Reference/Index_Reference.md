@@ -48,6 +48,8 @@ See `/Logs/Meta/Protocols/Reference_Index_Protocol.md` for rules.
 - **Stage_Direction_Codex.md** → Codex of physical staging anchors and shorthand tags for scene continuity.  
 - **Braid_Cycle_Guide_Reference.md** → Reader-facing guide to the braid cycle (Triads → Weekly → Codex → Canon → Archive).  
 - **Mantra_Registry_Reference.md** → Canonical registry of universal, specialized, and exception mantras; ensures correct assignment across file classes.  
+- **ArchivistNote_InitialCuts_2025-09-03.md** → Record of initial golden set freeze; anchors v1 Snapshots.  
+- **ArchivistNote_Seal_Log.md** → Immutable ledger of reseal history (reseals appended, never edited).  
 
 ---
 
