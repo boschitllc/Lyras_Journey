@@ -1,4 +1,4 @@
-# 📜 Verb Archetype Palette (Working)
+# 📜 Verb_Archetype_Palette.md
 
 ---
 - **File Path:** /Framework & Analysis/Active/Working/Verb_Archetype_Palette.md  
@@ -24,7 +24,6 @@
 - Promote only fully tested families into Reference.  
 
 ---
-
-🌌 Nothing stands alone.  
-Drafts → Reference → Codex → Canon.  
-The braid never breaks.  
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.

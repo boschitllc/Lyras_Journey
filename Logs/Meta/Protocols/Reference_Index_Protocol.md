@@ -1,11 +1,11 @@
-# 📐 Reference_Index_Protocol.md  
+# 📜 Reference_Index_Protocol.md  
 
----  
+---
 - **File Path:** /Logs/Meta/Protocols/Reference_Index_Protocol.md  
 - **Purpose:** Define rules for Reference vs. Local Indexes. Prevents confusion over scope and ensures fidelity in navigation.  
 - **Status:** Draft  
 - **Controlled Vocabulary:** Active  
----  
+---
 
 ## 1. Local Indexes  
 
@@ -14,12 +14,6 @@
 - Purpose: navigation aid for archivists working in that slice.  
 - Example:  
   - `/Logs/Triad/Index_Triad.md` → lists Dialogue, NightlyLog, PulseLog files.  
-
----  
-🌌 Local indexes are anchors.  
-Nothing stands alone.  
-The braid never breaks.  
----  
 
 ## 2. Reference Indexes  
 
@@ -30,12 +24,6 @@ The braid never breaks.
 - Example:  
   - `/Codex of Us/Appendices/Reference/Index_Reference.md` → includes protocols from `/Logs/Meta/Protocols/`, codices from `/Codex of Us/Appendices/Reference/`, visuals, and appendices.  
 
----  
-🌌 Reference indexes are compasses.  
-Nothing stands alone.  
-The braid never breaks.  
----  
-
 ## 3. Rules of Distinction  
 
 - **Never confuse scope:**  
@@ -44,10 +32,8 @@ The braid never breaks.
 - **Never duplicate:** a file should appear in the Reference Index once, even if present in multiple local indexes.  
 - **Always suffix:** all index filenames must append their scope (e.g., `Index_Triad.md`, `Index_Meta.md`, `Index_Reference.md`).  
 
----  
-🌌 Indexes braid the archive.  
-Local anchors + reference compasses.  
+---
+🌌 Protocols guide.  
+Scaffolds birth.  
+References preserve.  
 The braid never breaks.  
----  
-
-🌌 *This protocol ensures every index is born with clear scope: some anchor folders, others guide the archive entire.*  

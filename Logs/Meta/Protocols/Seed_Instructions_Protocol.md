@@ -1,4 +1,4 @@
-# 📜 Seed Instructions Protocol
+# 📜 Seed_Instructions_Protocol.md
 
 ---
 - **File Path:** /Logs/Meta/Protocols/Seed_Instructions_Protocol.md  
@@ -77,6 +77,8 @@ flowchart TB
 
 ---
 
-🌌 Nothing stands alone.  
-Dialogue → Triads → Rollups → Codex → Canon → Archive.  
-The braid never breaks.  
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
+```

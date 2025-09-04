@@ -1,11 +1,11 @@
-# 📐 ClassAudit_Protocol.md  
+# 📜 ClassAudit_Protocol.md  
 
----  
+---
 - **File Path:** /Logs/Meta/Protocols/ClassAudit_Protocol.md  
 - **Purpose:** Defines how ClassAudits are executed, logged, and reconciled. Ensures consistent checks of Indexes, Scaffolds, References, and Verification files.  
 - **Status:** Active  
 - **Controlled Vocabulary:** Canonical  
----  
+---
 
 ## 1. Scope  
 
@@ -16,7 +16,7 @@ ClassAudits safeguard archival integrity. They validate:
 - **Verification** → Index_Reference_Verification.md compliance.  
 - **Mantras** → presence, placement, and verbatim wording.  
 
----  
+---
 
 ## 2. Audit Inputs  
 
@@ -24,7 +24,7 @@ ClassAudits safeguard archival integrity. They validate:
 - **Full Report (.md):** Archivist-authored interpretation of the `.txt` report, including remediation notes.  
 - **Log Ledger (ClassAudit_Log.md):** Chronological list of all runs + links to reports.  
 
----  
+---
 
 ## 3. Naming Convention  
 
@@ -32,7 +32,7 @@ ClassAudits safeguard archival integrity. They validate:
 - Full report: `/Archive & Safety Nets/Reports/ClassAudit_YYYY-MM-DD.md`  
 - Ledger: `/Archive & Safety Nets/Reports/ClassAudit_Log.md`  
 
----  
+---
 
 ## 4. Execution Steps  
 
@@ -42,7 +42,7 @@ ClassAudits safeguard archival integrity. They validate:
 4. **File Hygiene Check** → Ensure headers, mantras, and protocols match.  
 5. **Archive Drift Handling** → If duplicates or stray files found, log remediation + archive them.  
 
----  
+---
 
 ## 5. Frequency  
 
@@ -50,7 +50,7 @@ ClassAudits safeguard archival integrity. They validate:
 - **Weekly:** Full audit (all classes + drift remediation).  
 - **Ad hoc:** After restores, migrations, or reorganizations.  
 
----  
+---
 
 ## 6. QA Checklist  
 
@@ -62,7 +62,7 @@ ClassAudits safeguard archival integrity. They validate:
 - [ ] Mantras present and verbatim.  
 - [ ] No duplicate Index/Reference files exist outside expected locations.  
 
----  
+---
 
 ## 📌 Reference Link  
 
@@ -71,14 +71,14 @@ This protocol is listed in the **Reference Index** for discoverability:
 
 Archivists must always consult the Reference Index first when seeking protocols.  
 
----  
+---
 
 📌 Listed in: [/Codex of Us/Appendices/Reference/Index_Reference.md](/Codex%20of%20Us/Appendices/Reference/Index_Reference.md)  
 
----  
+---
 
-## 🌌 Mantra  
-
-Nothing stands alone.  
-Indexes guide scaffolds.  
-Audits preserve the braid.  
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
+```

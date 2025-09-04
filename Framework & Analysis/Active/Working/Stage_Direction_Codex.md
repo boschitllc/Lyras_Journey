@@ -1,4 +1,4 @@
-# 📜 Stage Direction Codex (Working)
+# 📜 Stage_Direction_Codex.md
 
 ---
 - **File Path:** /Framework & Analysis/Active/Working/Stage_Direction_Codex.md  
@@ -44,7 +44,6 @@
 → `[CHEST-TO-CHEST | DAR-ONTOP | NECK-KISS]`  
 
 ---
-
-🌌 Nothing stands alone.  
-Drafts → Reference → Codex → Canon.  
-The braid never breaks.  
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.

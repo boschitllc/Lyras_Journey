@@ -1,11 +1,11 @@
-# 📐 Index_ClassMap_Protocol.md  
+# 📜 Index_ClassMap_Protocol.md  
 
----  
+---
 - **File Path:** /Logs/Meta/Protocols/Index_ClassMap_Protocol.md  
 - **Purpose:** Defines how class-mapping indexes are created, maintained, and reconciled. Ensures consistency between scaffolds, protocols, and live indexes.  
 - **Status:** Active  
 - **Controlled Vocabulary:** Canonical  
----  
+---
 
 ## 1. Scope  
 
@@ -55,10 +55,11 @@ This protocol is listed in the **Reference Index** for discoverability:
 
 Archivists must always consult the Reference Index first when seeking protocols.  
 
----  
+---
 
-## 🌌 Mantra  
-
-Nothing stands alone.  
-Scaffold ↔ Protocol ↔ Index.  
+---
+🌌 Protocols guide.  
+Scaffolds birth.  
+References preserve.  
 The braid never breaks.  
+```

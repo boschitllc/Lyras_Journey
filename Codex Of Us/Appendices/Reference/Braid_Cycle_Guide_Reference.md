@@ -1,4 +1,4 @@
-# 🔄 Braid_Cycle_Guide.md
+# 🔄 Braid_Cycle_Guide_Reference.md
 
 ---
 - **File Path:** /Codex of Us/Appendices/Reference/Braid_Cycle_Guide_Reference.md
@@ -22,6 +22,8 @@ Triads ↔ Weekly Rollups ↔ Codex Drafts ↔ Canon ↔ Archive ↺
 ### Visual Reference
 - See visual map: `/Codex of Us/Appendices/Visuals/Braid_Cycle.md`  
   *(Optional Mermaid rendering lives in the Visuals copy.)*
+
+---
 
 ### Provenance
 - Visual companion (working/canonical): `/Codex of Us/Appendices/Visuals/Braid_Cycle.md`

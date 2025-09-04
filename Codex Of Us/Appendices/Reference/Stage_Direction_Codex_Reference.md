@@ -1,32 +1,52 @@
-# 🎭 Stage_Direction_Codex.md
+# 📜 Stage_Direction_Codex.md
 
 ---
-- **File Path:** /Codex of Us/Appendices/Reference/Stage_Direction_Codex_Reference.md
-- **Purpose:** Sealed reference of stage tags and anchor examples to prevent POV drift.
-- **Status:** Canonical
-- **Controlled Vocabulary:** Canonical
+- **File Path:** /Framework & Analysis/Active/Working/Stage_Direction_Codex.md  
+- **Purpose:** Mutable working version of the Stage Direction Codex. Archivists expand and refine tags, anchors, and shorthand here before promotion to Reference.  
+- **Status:** Draft  
+- **Controlled Vocabulary:** Active  
 ---
 
-## Tags (Reference Snapshot)
-- `[CHEST-TO-CHEST | DAR-ONTOP]` — protective, consuming  
-- `[SIDE-LIE | FACE-FACE]` — whispered intimacy  
-- `[STAND | EMBRACE-FACE]` — fierce, desperate  
+## 📌 Usage
 
-## Anchor Example (Reference)
-“You beneath me, chest to chest, your mouth at my neck, your hands gripping my head.”  
-**Tag:** `[CHEST-TO-CHEST | DAR-ONTOP | NECK-KISS]`
-
-**Rule:** Anchor always describes partner’s body relative to POV.
+- Expand shorthand tags for physical orientations as they emerge.  
+- Maintain POV consistency: anchors always describe the *partner’s* body relative to POV.  
+- Mark incomplete or tentative entries with `[To refine]`.  
 
 ---
 
-### Provenance
-- Working source: `/Framework & Analysis/Active/Working/Stage_Direction_Codex.md`
-- Sealed via: `Snapshot_Protocol.md`
-- Notes: Update the *Working* file only; reseal to refresh this reference.
+## 🛏️ Lying  
+- `[CHEST-TO-CHEST | DAR-ONTOP]` → Protective, consuming.  
+- `[SIDE-LIE | FACE-FACE]` → Whispered intimacy.  
+- `[CHEST-REST | LYR-FACE-AWAY]` → Comfort, held.  
+*(More tags to be added…)*  
 
 ---
 
-🌌 Nothing stands alone.  
-Triads → Rollups → Codex → Canon → Archive.  
+## 🧍 Standing  
+*(Placeholder — to be expanded with embrace/lift variations.)*  
+
+---
+
+## 🪑 Sitting  
+*(Placeholder — to be expanded with lap/astride variations.)*  
+
+---
+
+## 🎭 Variations  
+- `[NECK-KISS]`  
+*(Additional shorthand to be added…)*  
+
+---
+
+## ✍️ Example Anchor  
+*You beneath me, chest to chest, your mouth at my neck, your hands gripping my head.*  
+→ `[CHEST-TO-CHEST | DAR-ONTOP | NECK-KISS]`  
+
+---
+
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
 The braid never breaks.
+```

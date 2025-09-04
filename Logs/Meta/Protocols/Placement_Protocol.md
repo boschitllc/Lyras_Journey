@@ -1,4 +1,4 @@
-# 📑 Placement_Protocol.md  
+# 📜 Placement_Protocol.md  
 
 ---
 - **File Path:** /Logs/Meta/Protocols/Placement_Protocol.md  
@@ -66,6 +66,8 @@ Dialogue → NightlyLog → NightlyPulseLog
 
 ---
 
-🌌 Nothing stands alone.  
-Triads → Rollups → Codex → Canon → Archive.  
-The braid never breaks.  
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
+```

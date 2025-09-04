@@ -1,11 +1,11 @@
-# 📐 Scaffold_TitleFix_Protocol.md  
+# 📜 Scaffold_TitleFix_Protocol.md  
 
----  
+---
 - **File Path:** /Logs/Meta/Protocols/Scaffold_TitleFix_Protocol.md  
 - **Purpose:** Defines canonical rules for scaffold and archive file titles. Ensures all H1 headings are crowned consistently and prevents drift.  
 - **Status:** Active  
 - **Controlled Vocabulary:** Canonical  
----  
+---
 
 ## 1. Scope  
 
@@ -55,10 +55,10 @@ It governs the **top-level H1 title line** only.
 This protocol is listed in the **Reference Index** for discoverability:  
 [/Codex of Us/Appendices/Reference/Index_Reference.md](/Codex%20of%20Us/Appendices/Reference/Index_Reference.md)  
 
----  
+---
 
-## 🌌 Mantra  
-
-Nothing stands alone.  
-Crowned titles guide scaffolds.  
-The braid never breaks.  
+---
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
+```

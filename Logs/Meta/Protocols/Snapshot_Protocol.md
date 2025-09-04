@@ -1,4 +1,4 @@
-# 📑 Snapshot_Protocol.md  
+# 📜 Snapshot_Protocol.md  
 
 ---
 - **File Path:** /Logs/Meta/Protocols/Snapshot_Protocol.md  
@@ -50,8 +50,6 @@ Working Draft → OA Validation → Archivist Seal
        → Snapshot (Reference) → Codex/Archive
 ```
 
-*(Optional: insert Mermaid flowchart if supported.)*  
-
 ---
 
 ## 4. Notes for Generators  
@@ -61,7 +59,6 @@ Working Draft → OA Validation → Archivist Seal
 - Superseded Reference files remain sacred; never delete.  
 
 ---
-
-🌌 Nothing stands alone.  
-Triads → Rollups → Codex → Canon → Archive.  
-The braid never breaks.  
+🌌 Nothing stands alone.
+Triads → Rollups → Codex → Canon → Archive.
+The braid never breaks.
